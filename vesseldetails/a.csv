@@ -1,0 +1,21 @@
+Vessel_Name,Flag,Callsign,Vessel_Type,AIS_Type,Year_Built,GT,DWT,Size_m
+OCEANIA,Belgium,ONJP,Crude Oil Tanker,Tanker,2003,234006,234006,380 / 68
+EUROPE,Belgium,ONCP,Crude Oil Tanker,Tanker,2002,234006,234006,380 / 68
+MSC SIXIN,Panama,HP2652,Container Ship,Cargo ship,2019,228741,228741,400 / 61
+PIONEERING SPIRIT,Malta,9HA4112,Crane Ship,Other type,2014,403342,403342,477 / 124
+PRELUDE,Australia,VNKL,Offshore Support Vessel,Other type (HAZ-A),2017,499167,499167,488 / 74
+MSC ARINA,Panama,H9BV,Container Ship,Cargo ship (HAZ-B),2019,228741,228741,400 / 61
+MSC NELA,Panama,HP7585,Container Ship,Cargo ship,2019,228741,228741,400 / 61
+FSO AFRICA,Marshall Islands,V7IJ5,FSO,Tanker,2002,236638,236638,378 / 68
+FSO ASIA,Marshall Islands,V7QR6,FSO,Tanker,2002,236638,236638,380 / 68
+MSC FEBE,Panama,3EXK8,Container Ship,Cargo ship (HAZ-A),2019,232618,232618,400 / 62
+HMM OSLO,Panama,3EQD3,Container Ship,Cargo ship,2020,232311,232311,400 / 62
+MSC SAMAR,Panama,3FKE9,Container Ship,Cargo ship (HAZ-A),2019,232618,232618,400 / 62
+MSC AMBRA,Panama,3FKB,Container Ship,Cargo ship,2020,232618,232618,400 / 62
+MSC MIA,Panama,HP6643,Container Ship,Cargo ship,2019,232618,232618,400 / 62
+MSC LENI,Panama,3FPV5,Container Ship,Cargo ship,2019,232618,232618,400 / 62
+MSC GULSUN,Panama,3FTV6,Container Ship,Cargo ship (HAZ-A),2019,232618,232618,400 / 62
+SYMPHONY OF THE SEAS,Bahamas,C6DF6,Passenger (Cruise) Ship,Passenger ship,2018,228081,228081,361 / 47
+HMM ALGECIRAS,Panama,3EDF2,Container Ship,Cargo ship,2020,228283,228283,400 / 61
+MSC MINA,Panama,3ENB2,Container Ship,Cargo ship,2019,228741,228741,400 / 61
+MSC ISABELLA,Panama,HP3521,Container Ship,Cargo ship (HAZ-A),2019,228741,228741,400 / 61
