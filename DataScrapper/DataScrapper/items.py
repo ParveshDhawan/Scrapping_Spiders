@@ -1,0 +1,28 @@
+# -*- coding: utf-8 -*-
+import scrapy
+
+class DatascrapperItem(scrapy.Item):
+    P_Title = scrapy.Field()
+    P_Url = scrapy.Field()
+    P_Description = scrapy.Field()
+    P_Name = scrapy.Field()
+    P_Rating = scrapy.Field()
+    P_Ratingcount = scrapy.Field()
+    P_MRP = scrapy.Field()
+    P_Price = scrapy.Field()
+    You_Save = scrapy.Field()
+    P_Reviewcount = scrapy.Field()
+    P_OFF = scrapy.Field()
+    P_Highlights = scrapy.Field()
+    P_Services= scrapy.Field()
+    Technical_Specification = scrapy.Field()
+    Seller_Name = scrapy.Field()
+    Seller_Url = scrapy.Field()
+    Seller_Rating = scrapy.Field()
+    # Seller_Comments = scrapy.Field()
+    Customer_Ratings5star= scrapy.Field()
+    Customer_Ratings4star= scrapy.Field()
+    Customer_Ratings3star= scrapy.Field()
+    Customer_Ratings2star= scrapy.Field()
+    Customer_Ratings1star= scrapy.Field()
+    Customer_Ratingstags= scrapy.Field()
